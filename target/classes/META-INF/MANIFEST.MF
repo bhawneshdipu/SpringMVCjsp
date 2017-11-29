@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Web App
+Implementation-Version: 1.0
+Built-By: dipu
+Implementation-Vendor-Id: com.dipu
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/web/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
